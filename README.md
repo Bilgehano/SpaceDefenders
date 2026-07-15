@@ -125,5 +125,4 @@ This project is also presented with a demo / live video walkthrough covering:
 - wave start and enemy progression
 - the overall gameplay loop
 
-Add the final public video link here when it is published.
 
