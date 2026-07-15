@@ -127,8 +127,3 @@ This project is also presented with a demo / live video walkthrough covering:
 
 Add the final public video link here when it is published.
 
-## Notes
-
-- Unity-generated folders such as `Library/`, `Temp/`, and `UserSettings/` are intentionally not tracked in Git.
-- Generated Visual Studio / solution files are also ignored because Unity can recreate them.
-- Large build artifacts can make the repository heavier over time, so `Build/` should be managed deliberately.
