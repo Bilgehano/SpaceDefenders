@@ -1,0 +1,13 @@
+:root {
+}
+
+.button:hover {
+    scale: 1.1 1.1;
+    background-color: rgb(0, 255, 255);
+}
+
+.button {
+    transition-duration: 0.35s;
+    transition-timing-function: ease;
+    background-color: rgb(0, 0, 0);
+}
